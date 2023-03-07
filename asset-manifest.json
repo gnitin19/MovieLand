@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieLand/static/css/main.334bdeb1.css",
+    "main.js": "/MovieLand/static/js/main.8374a026.js",
+    "index.html": "/MovieLand/index.html",
+    "static/media/search.svg": "/MovieLand/static/media/search.994e82db17fecb7527687eefa8a1130e.svg",
+    "main.334bdeb1.css.map": "/MovieLand/static/css/main.334bdeb1.css.map",
+    "main.8374a026.js.map": "/MovieLand/static/js/main.8374a026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.8374a026.js"
+  ]
+}
